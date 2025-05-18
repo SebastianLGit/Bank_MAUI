@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MauiApp1.Bank" Collapsed="true">
+    <Position X="2" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAIAAAAAAAAACAAAAgEA=</HashCode>
+      <FileName>Model\Bank.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="BankAccount" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MauiApp1.Savingsaccount" Collapsed="true">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Model\Savingsaccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MauiApp1.Loanaccount" Collapsed="true">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AVAAAAAAAAAAAAAAAIAAAAAEAAEAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Model\Loanaccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankAccount" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAgAAAAMAAgAAAIAAAAAAAACAAI=</HashCode>
+      <FileName>Model\Bankaccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
